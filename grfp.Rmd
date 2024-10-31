@@ -1,0 +1,16 @@
+---
+title: "nsf grfp advice"
+author: 
+date: 
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+here is some advice about applying to the GRFP, along with resources that I found useful in my application process. I'm also attaching my application materials and reviews. 
+
+<br>
+
+If you'd like to chat more in depth, please reach out to me at hmz25@cornell.edu. I'm happy to help in any way I can, and enjoy copy editing!

@@ -1,0 +1,16 @@
+---
+title: "about me"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Hi! Thanks for browsing my website! As mentioned on the home page, my name is Hannah Zonnevylle and I'm a second year PhD student at Cornell University.  
+
+I'm from Ann Arbor, Michigan where I attended the University of Michigan for my undergraduate. I earned a BS in Earth and Environmental Sciences, a BA in Comparative Biology, and a minor in Ecology and Evolutionary Biology. While at the U of M I played club soccer, FINISH.
+
+After graduating in 2021, I moved to Chicago, where I lived and worked for two years. In Chicago, I completed an AmeriCorps service year, working for an environmental education nonprofit called Gateway to the Great Outdoors (GGO). After my service year, I returned as the Education and Research Director. FINISH. Read more about my past and ongoing outreach projects here (INSERT OUTREACH PAGE LINK)
+
+In my free time, I love to cook, bake, see live music, swing dance (I do Lindy Hop), long distance run, and spend time with friends. See what I've been getting up to here (LINK FUN STUFF PAGE)

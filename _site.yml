@@ -1,0 +1,38 @@
+name: "hmz-website"
+navbar:
+  title: "hannah zonnevylle"
+  type: inverse
+  left:
+    - text: "home"
+      href: index.html
+    - text: "about me"
+      href: aboutme.html
+    - text: "research"
+      href:  research.html
+    - text: "outreach"
+      href: outreach.html
+    - text: "nsf grfp advice"
+      href: nsfgrfpadvice.html
+    - text: "fun stuff"
+      href: funstuff.html
+      menu:
+        - text: "running"
+          href: running.html
+        - text: "food"
+          href: food.html
+        - text: "art recs"
+          href: recs.html
+        - text: "blog posts"
+          href: blogs.html
+output_dir: "."
+output:
+  html_document:
+    theme: lumen
+    highlight: textmate
+    toc: true 
+    toc_float: true 
+    include:
+      after_body: footer.html
+    css: styles.css
+
+

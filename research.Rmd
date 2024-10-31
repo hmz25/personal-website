@@ -1,0 +1,39 @@
+---
+title: "research"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Plants are essential to human and ecosystem health. Broadly, I'm interested in the **intersection of plant ecology and public health**. I love learning about plant processes that impact humans to ultimately promote public engagement with the natural world. Specifically, my research focuses on tree flowering, which has implications for allergenic pollen exposure. 
+
+<br>
+
+Please read more details below and reach out with any questions/comments/ideas!
+
+<br>
+
+
+### Ashe juniper reproductive synchrony in Central Texas
+
+![male Ashe juniper tree, January 2024](/Users/hannahzonnevylle/github/personal-website/website pics/IMG_5967.jpg)
+
+<br>
+
+My main dissertation topic examines inter-annual cone and pollen production for Ashe juniper (*Juniperus ashei*) trees in Texas. *J. ashei* trees cover approximately 34,800 km^2^ in Central Texas (Andrews et al., 2013). *J. ashei* trees prolifically produce reproductive structures, pollen cones: individuals can have up to 1.3 million pollen cones with up to 400,000 pollen grains per cone (Bunderson et al., 2012)! These trees are a huge nuisance to anyone who lives near them, as their pollen provokes allergic reactions in sensitized individuals. Regionally, the allergies they cause is known as "cedar fever."
+
+Studying the environmental controls on *J. ashei* reproduction is important to both human and ecosystem health. Specifically, I'm interested in how drought impacts reproductive synchrony, the coordinated timing of reproduction among individuals of the same species. Climate change is projected to affect reproductive synchrony, which could affect plant reproductive success and has implications for other organisms. In addition to facilitating plant recruitment, synchrony contributes important nutrient pulses to ecosystems (Yang et al., 2008) and impacts humans through exposure to airborne allergenic pollen (Ranta & Satri, 2007). 
+
+Airborne pollen is closely related to the number of reproductive structures that plants produce, and more synchronous reproduction could lead to higher loads of airborne pollen: allergenic plants could synchronize high and low reproductive output, resulting in a greater cumulative number of pollen exposure days during high reproduction years due to non- overlapping pollen seasons (Ranta & Satri, 2007). Further, understanding inter-annual variation in reproduction is necessary to predict the amount of pollen that is produced, which is needed for forecasting airborne pollen concentrations. 
+
+To study changes on *J. ashei* reproduction, I use a combination of remote sensing and traditional ecological methods. *J. ashei* have reproductive structures (cones) which are orange and can change the appearance of the tree. I fly a drone to capture images of *J. ashei* trees, which I then analyze for the strength of their orange color. I then pair the spectral readings to manual cone counts to quantify how many cones are on each tree. This allows me to analyze the reproductive output of individuals across years and environmental conditions to examine which abiotic factors most impact reproductive synchrony. 
+
+### Ragweed and plantain flower and pollen production under water stress
+
+
+
+### Tree flowering phenology in Northeastern forests 
+
+![fall colors at Arnot Forest, October 2024](/Users/hannahzonnevylle/github/personal-website/website pics/DSC00378.JPG)

@@ -1,0 +1,14 @@
+---
+title: "running"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+One of the great joys in my life is running with friends! I have a wonderful group of fellow runners who all gather on weekend (and occassional early weekday) mornings for a run that either ends at the Ithaca Farmer's Market, or someone's house for a potluck brunch. You can check out our favorite routes on my Strava, and take a peek at the action with some of the pics below! 
+
+![](/Users/hannahzonnevylle/github/personal-website/website pics/IMG_0077.JPG)
+
+![](/Users/hannahzonnevylle/github/personal-website/website pics/IMG_9789.JPG)
